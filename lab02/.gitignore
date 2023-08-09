@@ -1,0 +1,10 @@
+.*.swp
+*.o
+test_leap
+*.creator*
+*.cflags
+*.config
+*.cxxflags
+*.files
+*.includes
+.vscode/
